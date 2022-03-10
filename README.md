@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @omsrg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ompi
 
-<!---
-omsrg/omsrg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=omsrg&show_icons=true&theme=radical&bg_color=151924&title_color=6f8ef2&text_color=fff' />
+
+<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=omsrg&layout=compact&bg_color=151924&title_color=6f8ef2&text_color=fff' />
